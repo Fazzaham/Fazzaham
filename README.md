@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Fazzaham (💫)
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ... (wildlife) 
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me ...@github.com)
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+(sports activities)
+<!---
+Fazzaham/Fazzaham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+💫🤗
